@@ -1,0 +1,60 @@
+skillset='{\
+    "alltags": [{\
+            "name": "lang",\
+            "description": "Languages"\
+        }, {\
+            "name": "ui",\
+            "description": "UI"\
+        }, {\
+            "name": "database",\
+            "description": "Database"\
+        }, {\
+            "name": "frame",\
+            "description": "Frameworks"\
+        }, {\
+            "name": "os",\
+            "description": "Operating Systems"\
+        }, {\
+            "name": "mobile",\
+            "description": "MobileTechnologies"\
+        }, {\
+            "name": "cloud",\
+            "description": "CloudApps"\
+        }\
+    ],\
+    "skills": [{\
+            "name": ["Java", "Dart", "Python"],\
+            "tags": ["all", "lang"]\
+        }, {\
+            "name": [ "XML","YAML"],\
+            "tags": ["all", "lang", "other"]\
+        }, {\
+            "name": [ "JavaScript", "PHP",  "Dart", "CSS", "HTML"],\
+            "tags": ["all", "lang","ui"]\
+        }, {\
+            "name": ["JQuery", "Angular (7 & 8)", "Angularjs"],\
+            "tags": ["all","lang", "frame","ui"]\
+        }, {\
+            "name": ["Windows", "Linux", "Android"],\
+            "tags": ["all", "os"]\
+        }, {\
+            "name": ["sencha touch","nodejs"],\
+            "tags": ["all", "frame"]\
+        }, {\
+            "name": ["Oracle", "MySql", "Sqlite", "Derby", "Postgres", "Mongo"],\
+            "tags": ["all", "database"]\
+        },  {\
+            "name": [ "SVN", "GIT","JIRA"],\
+            "tags": ["all", "tools", "devops"]\
+        }, {\
+            "name": ["AWS EC2", "AWS Lambda"],\
+            "tags": ["all", "cloud"]\
+        }, {\
+            "name": ["Blackberry", "Android SDK (Java)", "Cordova", "Windows Phone"],\
+            "tags": ["all", "mobile"]\
+        }, {\
+            "name": ["Tomcat", "Jetty", "ActiveMQ", "JBoss/Wildfly", "Junit", "JMeter", "NSIS"],\
+            "tags": ["all", "tools"]\
+        }\
+    ]\
+}';
