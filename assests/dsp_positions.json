@@ -1,4 +1,11 @@
 positions = '[{\
+        "company": "IDP education india pvt ltd , IN",\
+        "image" : "img/freelancer.png",\
+        "postion": "Module Lead",\
+        "startDate": "Aug \'20",\
+        "endDate": "Present",\
+        "description": "Working as Module Lead"\
+    },{\
         "company": "Freelancer, Chennai, IN",\
         "image" : "img/freelancer.png",\
         "postion": "Freelancer Developer",\
@@ -10,7 +17,7 @@ positions = '[{\
         "image" : "img/tpf.png",\
         "postion": "Principal Engineer",\
         "startDate": "Jun \'18",\
-        "endDate": "Present",\
+        "endDate":  "May \'20",\
         "description": "Worked as Principal Engineer"\
     }, {\
         "company": "TPF Software, Chennai, IN",\
